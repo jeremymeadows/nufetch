@@ -1,0 +1,26 @@
+display = [ "user", "host", "distro", "kernel", "shell", "terminal", "mem", "cpu" ]
+default_color = "cyan"
+
+[user]
+color = "red"
+
+[host]
+color = "green"
+
+[distro]
+color = "yellow"
+
+[kernel]
+color = "blue"
+
+[shell]
+color = "magenta"
+
+[terminal]
+color = "cyan"
+
+[mem]
+color = "red"
+
+[cpu]
+color = "green"
